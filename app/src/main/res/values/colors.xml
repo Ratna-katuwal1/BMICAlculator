@@ -2,4 +2,14 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="app_bg">#0A0E22</color>
+    <color name="card_bg">#1A1E38</color>
+    <color name="red">#EA3E34</color>
+    <color name="slide_color">#3A2582</color>
+    <color name="green">#428758</color>
+    <color name="btn_color">#DB3C34 </color>
+    <color name="purple"> #44309B </color>
+    <color name="light_blue">#ADD8E6</color>
+    <color name="yellow"> #FFFF00</color>
+
 </resources>

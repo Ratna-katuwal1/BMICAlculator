@@ -1,3 +1,15 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">BMICalculator</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="Height_unit">Height (CM) </string>
+    <string name="default_height"> 153 </string>
+    <string name="Weight_unit">Weight (KG) </string>"
+    <string name="default_weight"> 55 </string>
+    <string name="age_unit"> AGE </string>
+    <string name="default_age"> 21 </string>
+    <string name="calculate"> Calculate </string>
+    <string name="recalculate"> Recalculate </string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
 </resources>
